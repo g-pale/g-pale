@@ -29,11 +29,11 @@ Note: project repository is private (company/NDA); details and demo can be share
 
 ### The Founder Table — MVP (Landing + Telegram bot)
 Telegram bot + landing for closed founder events: application flow, moderation, Hot Seat briefs, notifications, and post-event messaging.  
-Uses **Google Sheets as a lightweight CRM** for MVP stage.  [oai_citation:4‡README.md](sediment://file_000000003fb871f4adccc3512d75a89f)
+Uses **Google Sheets as a lightweight CRM** for MVP stage. Repo: private (client project). Demo/video and docs available upon request.
 
 ### FounderThemeBot — non-anonymous voting in Telegram channels (MVP in progress)
 Bot to run voting directly in channels with a stored vote log (workaround for channel poll limitations).  
-Admin flow via bot, results tracking, export to CSV; storage on SQLite.  [oai_citation:5‡BOT_OVERVIEW.md](sediment://file_00000000e53071f4ad7f9aebe2687504)
+Admin flow via bot, results tracking, export to CSV; storage on SQLite. Repo: private (client project). Demo/video and docs available upon request.
 
 ### n8n AI News Pipeline (TechRadar → LLM → Telegram)
 Self-hosted n8n workflow that periodically pulls AI-related articles from techradar.com, translates + summarizes via LLM, and publishes to a Telegram channel.
