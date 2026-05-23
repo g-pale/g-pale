@@ -1,47 +1,42 @@
 # Sergey Saburkin 👋
 
-Junior Python Backend Developer — FastAPI/Django, REST API, PostgreSQL, Docker/Linux.  
-Интересуюсь ботами, интеграциями и автоматизацией процессов с AI-инструментами (Cursor, Kiro).
+**AI-first backend developer (Python)** focused on shipping fast with modern AI tooling.  
+I work daily with **Cursor + Claude Code** (core workflow), use **Codex** for code review, and also leverage **ChatGPT / Gemini** for research and validation.
 
-- 📍 Remote / Moscow time (±4)
-- 💼 Open to internship / junior roles
-- 🌐 Live project: https://money-transfer.tr
+- Open to: **intern / junior roles** (backend, bots, integrations, AI automation)
+- Location: Remote (UTC+3 ±4)
+
+## What I do
+- Build backend services and APIs (FastAPI / Django)
+- Integrate external APIs and automate workflows
+- Ship MVPs fast using AI-first development practices
+- Lead and coordinate backend work (task decomposition, reviews, delivery)
 
 ## Tech stack
-**Python**, FastAPI, Django, SQLAlchemy  
-PostgreSQL, SQLite (базово: NoSQL-подходы)  
-Docker, Linux/VPS, systemd, Git  
-Telegram bots: **aiogram**, **pyTelegramBotAPI (telebot)**  
-Testing: pytest (базовый уровень)  
-Docs/Tools: OpenAPI/Swagger, Postman
+**Python**, FastAPI, Django  
+PostgreSQL, SQLite, SQLAlchemy  
+Docker, Linux, Git  
+Telegram bots: aiogram / pyTelegramBotAPI (telebot)  
+Testing: pytest (basic)  
+Docs: OpenAPI/Swagger, Postman
 
-## Featured projects
-- **MoneyTransfer (TR)** — сайт приёма заявок + уведомления в Telegram/WhatsApp (резерв)  
-  Live: https://money-transfer.tr  
-  Repo: https://github.com/g-pale/Vizitka
+## Featured work
 
-- **HH Resume Lift Bot** — автоматизация регулярного поднятия резюме на HH.ru (VPS + systemd)  
-  Repo: https://github.com/g-pale/HH.ru
+### NonGrata (KYC / Compliance risk screening) — AVB Invest
+Platform that aggregates risk registries and provides a unified risk profile for people/companies (sanctions, restrictions, etc.).  
+I joined on the backend side and currently coordinate work on data ingestion/parsers and delivery.  
+About the product:  [oai_citation:3‡О_ПРОЕКТЕ.md](sediment://file_00000000781871f4a23d3c325dcac757)
 
-- **GuidIstanbul Bot** — Telegram-бот-гид по Стамбулу (маршруты/подсказки/интерактив)  
-  Repo: https://github.com/g-pale/TgBot-IstanbulGuide
+### The Founder Table — MVP (Landing + Telegram bot)
+Telegram bot + landing for closed founder events: application flow, moderation, Hot Seat briefs, notifications, and post-event messaging.  
+Uses **Google Sheets as a lightweight CRM** for MVP stage.  [oai_citation:4‡README.md](sediment://file_000000003fb871f4adccc3512d75a89f)
 
-- **Social Network (Django)** — учебная мини-соцсеть: профили, посты, лайки, комментарии, подписки, сообщения  
-  Repo: https://github.com/g-pale/Social-network-Django
-
-- **KYC MVP (planning)** — артефакты и план реализации KYC MVP (этапы, модули, структура)  
-  Repo: https://github.com/g-pale/KYC-MVP
-
-- **Dimatech test task** — выполненное тестовое задание  
-  Repo: https://github.com/g-pale/Dimatech
-
-## What I’m focusing on now
-- Углубляю FastAPI/async, работу с PostgreSQL (запросы/миграции/оптимизация)
-- Улучшаю качество: тесты (pytest), структура проектов, CI
-- Автоматизация и интеграции (боты, вебхуки, внешние API)
+### FounderThemeBot — non-anonymous voting in Telegram channels (MVP in progress)
+Bot to run voting directly in channels with a stored vote log (workaround for channel poll limitations).  
+Admin flow via bot, results tracking, export to CSV; storage on SQLite.  [oai_citation:5‡BOT_OVERVIEW.md](sediment://file_00000000e53071f4ad7f9aebe2687504)
 
 ## Contacts
-- LinkedIn: https://www.linkedin.com/in/sergey-saburkin-9a02a4277/?locale=en
+- LinkedIn: https://www.linkedin.com/in/sergey-saburkin-9a02a4277/
 - Habr Career: https://career.habr.com/g-pale
 - Telegram: https://t.me/WAZZUP_0
 
