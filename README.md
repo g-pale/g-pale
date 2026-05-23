@@ -35,9 +35,10 @@ Uses **Google Sheets as a lightweight CRM** for MVP stage. Repo: private (client
 Bot to run voting directly in channels with a stored vote log (workaround for channel poll limitations).  
 Admin flow via bot, results tracking, export to CSV; storage on SQLite. Repo: private (client project). Demo/video and docs available upon request.
 
-### n8n AI News Pipeline (TechRadar → LLM → Telegram)
-Self-hosted n8n workflow that periodically pulls AI-related articles from techradar.com, translates + summarizes via LLM, and publishes to a Telegram channel.
+### n8n AI News Pipeline (TechRadar RSS → LLM → Telegram)
+Self-hosted n8n workflow that periodically pulls AI-related articles from **TechRadar official RSS feeds**, translates + summarizes via LLM, and publishes to a Telegram channel.
 To keep delivery stable from a RU-based server, implemented proxy + reverse-proxy setup (Telegram node reliability / network restrictions workaround).
+Telegram channel: https://t.me/TechnoRadarAI
 Stack: n8n (self-hosted), Docker/Linux, proxy/reverse proxy, LLM APIs.
 Note: workflow is private (personal); can share architecture screenshots and node-by-node overview.
 
