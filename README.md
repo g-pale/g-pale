@@ -35,6 +35,12 @@ Uses **Google Sheets as a lightweight CRM** for MVP stage.  [oai_citation:4‡RE
 Bot to run voting directly in channels with a stored vote log (workaround for channel poll limitations).  
 Admin flow via bot, results tracking, export to CSV; storage on SQLite.  [oai_citation:5‡BOT_OVERVIEW.md](sediment://file_00000000e53071f4ad7f9aebe2687504)
 
+### n8n AI News Pipeline (TechRadar → LLM → Telegram)
+Self-hosted n8n workflow that periodically pulls AI-related articles from techradar.com, translates + summarizes via LLM, and publishes to a Telegram channel.
+To keep delivery stable from a RU-based server, implemented proxy + reverse-proxy setup (Telegram node reliability / network restrictions workaround).
+Stack: n8n (self-hosted), Docker/Linux, proxy/reverse proxy, LLM APIs.
+Note: workflow is private (personal); can share architecture screenshots and node-by-node overview.
+
 ## Contacts
 - LinkedIn: https://www.linkedin.com/in/sergey-saburkin-9a02a4277/
 - Habr Career: https://career.habr.com/g-pale
