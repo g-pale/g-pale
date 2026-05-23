@@ -23,9 +23,9 @@ Docs: OpenAPI/Swagger, Postman
 ## Featured work
 
 ### NonGrata (KYC / Compliance risk screening) — AVB Invest
-Platform that aggregates risk registries and provides a unified risk profile for people/companies (sanctions, restrictions, etc.).  
-I joined on the backend side and currently coordinate work on data ingestion/parsers and delivery.  
-About the product:  [oai_citation:3‡О_ПРОЕКТЕ.md](sediment://file_00000000781871f4a23d3c325dcac757)
+KYC/compliance platform that aggregates multiple risk registries and builds a unified risk profile for people/companies (sanctions, restrictions, etc.).
+Role: backend team coordinator + delivery of data ingestion/parsers.
+Note: project repository is private (company/NDA); details and demo can be shared upon request.
 
 ### The Founder Table — MVP (Landing + Telegram bot)
 Telegram bot + landing for closed founder events: application flow, moderation, Hot Seat briefs, notifications, and post-event messaging.  
